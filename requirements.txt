@@ -1,6 +1,6 @@
+allure-pytest
+allure-python-commons
 pytest
+requests
 selenium
 webdriver-manager
-requests
-allure-pytest
-
